@@ -1,5 +1,5 @@
-
-# My solutions to coding interview questions on [AlgoExpert](https://www.algoexpert.io) including Machine Learning Design System
+# AlgoExpert Coding Interviews
+My solutions to coding interview questions on [AlgoExpert](https://www.algoexpert.io) using Python (including Machine Learning Design System)
 
 #### Difficulty Levels
 
