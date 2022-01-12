@@ -39,5 +39,4 @@ def runningSumBST(node, runningSum, sums):
         sums.append(newRunningSum)
     runningSumBST(node.left, newRunningSum, sums)
     runningSumBST(node.right, newRunnignSum, sums)
-
 ```
