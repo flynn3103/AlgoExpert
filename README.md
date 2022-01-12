@@ -17,3 +17,4 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 | [Tournament Winner](/Easy/tournament-winner.md)| 🟢 | Arrays| HashTable | 
 | [Non-Constructible Change](/Easy/non-constructible-change.md)| 🟢 | Arrays| Pointers | 
 | [Find Closest Value In BST](/Easy/find-closest-value-bst.md)| 🟢 | BST|  | 
+| [Branch Sums](/Easy/branch-sum.md)| 🟢 | BST|  | 
