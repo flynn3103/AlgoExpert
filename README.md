@@ -18,3 +18,4 @@ My solutions to coding interview questions on [AlgoExpert](https://www.algoexper
 | [Non-Constructible Change](/Easy/non-constructible-change.md)| 🟢 | Arrays| Pointers | 
 | [Find Closest Value In BST](/Easy/find-closest-value-bst.md)| 🟢 | BST|  | 
 | [Branch Sums](/Easy/branch-sum.md)| 🟢 | BST|  | 
+| [Node Depths](/Easy/node-depths.md)| 🟢 | BST|  | 
